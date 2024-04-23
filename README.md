@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hmzi67" target="blank"><img src="https://img.shields.io/twitter/follow/hmzi67?logo=twitter&style=for-the-badge" alt="hmzi67" /></a> </p>
 
-- 🌱 I’m currently learning **Type Script**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 My programming protfolio is available at [hmzi67.github.io](https://github.com/hmzi67)
 
