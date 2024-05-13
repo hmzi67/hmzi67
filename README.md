@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hmzi67&label=Profile%20views&color=0e75b6&style=flat" alt="hmzi67" /> </p>
 
 <br />
-<p align="center"> <a href="https://twitter.com/hmzi67" target="blank"><img src="https://img.shields.io/twitter/follow/hmzi67?logo=twitter&style=for-the-badge" alt="hmzi67" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/hmzi67" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hmzi67" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
