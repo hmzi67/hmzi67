@@ -34,3 +34,7 @@
 </p>
 
 <p>  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmzi67&" alt="hmzi67" /></p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
