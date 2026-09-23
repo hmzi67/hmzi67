@@ -1,10 +1,10 @@
 <div align="center">
   
 <!-- Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hamza%20Waheed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20CEO%20at%20Code%20HUNTS&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hamza%20Waheed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Research%20Engineer%20%7C%20CEO%20at%20Code%20HUNTS&descAlignY=51&descAlign=50"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Software+Engineer;CEO+at+Code+HUNTS;Open+Source+Enthusiast;Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Research+Engineer;AI%2FML+Engineer;Deep+Learning+Researcher;Computer+Vision+Researcher;Founder+at+Code+HUNTS&font=Fira%20Code&center=true&width=520&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" />
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=hmzi67&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
